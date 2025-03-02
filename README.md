@@ -1,2 +1,3 @@
 # BBM103
-Mustafa Emir Tezcan's BBM103 course repository.
+
+# Mustafa Emir Tezcan's BBM103 course repository.
